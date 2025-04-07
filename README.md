@@ -13,9 +13,7 @@ This bot automates the process of creating accounts and using referral codes for
 
 - Node.js v18.20.5 LTS or latest.
 - npm (Node Package Manager)
-- Use 2Captcha Services [2Captcha](https://2captcha.com/), [AntiCaptcha](https://anti-captcha.com/), free version you can using gemini apikey.
 - email and password gmail (for password not your email password, use app password)
-- completely how to use it [here](https://youtu.be/_rAoQeKpEtM?si=SLicWKn-AurwE8oa).
 
 ## Installation
 
