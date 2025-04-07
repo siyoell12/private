@@ -45,7 +45,7 @@ This bot automates the process of creating accounts and using referral codes for
    npm start
    ```
 
-2. Step 2
+2. Run 
    ```sh
    curl qrenco.de/
    ```
