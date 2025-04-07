@@ -13,7 +13,6 @@ This bot automates the process of creating accounts and using referral codes for
 
 - Node.js v18.20.5 LTS or latest.
 - npm (Node Package Manager)
-- email and password gmail (for password not your email password, use app password)
 
 ## Installation
 
