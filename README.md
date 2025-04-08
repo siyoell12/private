@@ -1,4 +1,4 @@
-# PIVATE CODING
+# PRIVATE CODING
 
 This bot automates the process of creating accounts and using referral codes for the private.coding.
 
